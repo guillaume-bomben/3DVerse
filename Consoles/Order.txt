@@ -1,0 +1,12 @@
+NES,
+Game Boy,
+SNES,
+Virtual Boy,
+N64,
+GBA,
+GameCube,
+DS,
+Wii,
+3DS,
+Wii U,
+Switch
